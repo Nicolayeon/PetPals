@@ -1,0 +1,74 @@
+{
+  "categories": [
+    {
+      "name": "Animals",
+      "subcategory": [
+        "Cats",
+        "Dogs",
+        "Hamsters",
+        "Birds",
+        "Others"
+      ]
+    },
+    {
+      "name": "Pet Foods",
+      "subcategory": [
+        "Cats",
+        "Dogs",
+        "Hamsters",
+        "Birds",
+        "Others"
+      ]
+    },
+    {
+      "name": "Pet Clothes",
+      "subcategory": [
+        "Cats",
+        "Dogs",
+        "Hamsters",
+        "Birds",
+        "Others"
+      ]
+    },
+    {
+      "name": "Pet Hats",
+      "subcategory": [
+        "Cats",
+        "Dogs",
+        "Hamsters",
+        "Birds",
+        "Others"
+      ]
+    },
+    {
+      "name": "Pet Accessories",
+      "subcategory": [
+        "Cats",
+        "Dogs",
+        "Hamsters",
+        "Birds",
+        "Others"
+      ]
+    },
+    {
+      "name": "Pet Cages",
+      "subcategory": [
+        "Cats",
+        "Dogs",
+        "Hamsters",
+        "Birds",
+        "Others"
+      ]
+    },
+    {
+      "name": "Donate",
+      "subcategory": [
+        "Cats",
+        "Dogs",
+        "Hamsters",
+        "Birds",
+        "Others"
+      ]
+    }
+  ]
+}
